@@ -12,7 +12,7 @@ Baxter the Robot is our latest bot. Our research projects are centred around him
 
 Introducing Baxter...
 
-![Alt Text](https://github.com/UCRoboticsLab/ucroboticslab.github.io/tree/master/images/Baxter.jpg)
+![Baxter Image](/images/Baxter.jpg?raw=true)
 
 
 ### Contact me
