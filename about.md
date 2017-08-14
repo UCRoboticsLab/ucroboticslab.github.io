@@ -15,7 +15,7 @@ Introducing Baxter...
 ![Baxter Image](/images/Baxter.jpg?raw=true)
 
 
-### Contact me
+### Contact Us
 
 
 Damith.Herath
