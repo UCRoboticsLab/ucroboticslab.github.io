@@ -18,7 +18,7 @@ Introducing Baxter...
 ### Contact me
 
 
-Director:  Damith.Herath
+Damith.Herath
 [Damith.Herath@canberra.edu.au](mailto:Damith.Herath@canberra.edu.au)
 
 Developer:  Yang Ye
