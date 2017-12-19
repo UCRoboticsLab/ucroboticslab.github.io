@@ -9,7 +9,6 @@ To add new post to our blog, you need to create a new .md file in the _posts dir
 layout: post
 title: The headline
 ---
-
 ```
 
 You are free to write your comments here. Make sure the change is made to "master" branch. The site takes 1-5 minutes to pick up your change. 
