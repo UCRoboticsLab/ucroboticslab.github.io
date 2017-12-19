@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to write a blog post
+title: the headline of post
 ---
 
 To add new post to our blog, you need to create a new .md file in the _posts directory. Please follow the name convention "yyyy-mm-dd-filename.md". Then add the following code block on the top of file. 
