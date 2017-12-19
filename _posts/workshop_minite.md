@@ -1,1 +1,6 @@
+---
+layout: post
+title: ROS workshop minite
+---
+
 We had a successful ROS workshop this week and thank everyone for attending. The slides used in the workshop is uploaded in the repo for your review. 
